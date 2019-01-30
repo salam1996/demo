@@ -2,3 +2,5 @@ Shopping list
 - Milk
 - Cereal
 - Beer
+- More beer 
+- jam 
